@@ -372,12 +372,12 @@ p {
   justify-content: center;
   flex-direction: column;
   background: rgb(253, 253, 170);
-  color: pink;
+  color: rgb(90, 29, 40);
 }
 #projects .project-info h1 {
   font-size: 4rem;
   font-weight: 500;
-  color: rgb(253, 80, 108);
+  color: rgb(90, 29, 40);
 }
 #projects .project-info h2 {
   font-size: 1.8rem;
@@ -385,7 +385,7 @@ p {
   margin-top: 10px;
 }
 #projects .project-info p {
-  color: pink;
+  color: rgb(90, 29, 40);
 }
 #projects .project-img {
   flex-basis: 50%;

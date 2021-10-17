@@ -64,7 +64,7 @@ p {
   transition-property: background-color, color;
 }
 .cta:hover {
-  color: rgb(0, 0, 0);
+  color: rgb(90, 29, 40);
   background-color: #fae233;
 }
 .brand h1 {

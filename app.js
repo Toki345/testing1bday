@@ -33,10 +33,10 @@ soundBtn.addEventListener('click', () => {
 function change()
 {
     var elem = document.getElementById("bebe");
-    if (elem.value=="You're My Special Everything") elem.value = "My one and only";
+    if (elem.value=="My Special Everything") elem.value = "My one and only";
 	else if (elem.value=="My one and only") elem.value = "My Future";
 	else if (elem.value=="My Future") elem.value = "The love of my life";
 	else if (elem.value=="The love of my life") elem.value = "My bebekwaaaaa";
-    else elem.value = "You're My Special Everything";
+    else elem.value = "My Special Everything";
 }
 

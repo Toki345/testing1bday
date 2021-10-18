@@ -716,15 +716,3 @@ p {
   }
 }
 /* End  Media Query For Desktop */
-
-.video-player {
-  width: 70%;
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  z-index: 99;
-}
-
-video:focus {
-  outline: none;
-}
